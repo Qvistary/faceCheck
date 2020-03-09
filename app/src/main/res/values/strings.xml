@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PureCheck</string>
+    <string name="str_signIn_create"><u>Create</u></string>
+    <string name="str_signIn_login">Log in</string>
+    <string name="str_signIn_userId">UserId</string>
+    <string name="str_signIn_password">Password</string>
+    <string name="str_signIn_noAccount">Don’t have an account</string>
+    <string name="str_signUp_create">Sign Up</string>
+    <string name="str_signUp_username">UserName</string>
+    <string name="str_signUp_checkPassword">Repeat your password</string>
+    <string name="str_signUp_signUp">SignUp</string>
+    <string name="str_fragment_home">Home</string>
+    <string name="str_fragment_search">Search</string>
+    <string name="str_fragment_user">User</string>
+    <string name="str_home_welcome">Welcome</string>
+    <string name="str_signIn_error">Login failed</string>
+
+
+</resources>
